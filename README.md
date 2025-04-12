@@ -1,6 +1,6 @@
 # 🥬 Lettuce Growth Insights: Environmental Impact on Maturity Time
 
-This project explores how environmental conditions — including temperature, humidity, pH, and total dissolved solids (TDS) — influence the number of days it takes for lettuce plants to reach maturity. Using a dataset sourced from Kaggle, we perform exploratory data analysis (EDA), visualizations, and feature engineering to uncover patterns and draw data-driven conclusions.
+This project explores how environmental conditions — including temperature, humidity, pH, and total dissolved solids (TDS) — influence the number of days it takes for lettuce plants to reach maturity. Using a dataset sourced from Kaggle, I performed exploratory data analysis (EDA), visualizations, and feature engineering to uncover patterns and draw data-driven conclusions.
 
 ---
 
