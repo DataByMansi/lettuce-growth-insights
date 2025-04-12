@@ -32,11 +32,12 @@ This project explores how environmental conditions — including temperature, hu
 - **Celsius to Fahrenheit Conversion**
 - **Days to Weeks Conversion**
 - **Humidity Bucketing (Low, Medium, High)**
-- **Statistical Summary**: Mean, Median, Min, Max
+- **Statistical Summary**: Mean, Median, Min, Max, Quartiles
 - **Visualizations**:
   - Scatter Plot (Temperature vs Growth Days)
   - Bar Chart (Humidity vs Avg Growth Days)
   - Histogram (Growth Days Distribution)
+  - Line Chart (PH level over Time)
 
 ---
 
@@ -72,5 +73,5 @@ This project explores how environmental conditions — including temperature, hu
 
 ## 🧠 Author
 **Mansi Tamta**  
-Course: Data Analyst Coursework  
+Course: Data Analyst Coursework
 Year: 2025  
