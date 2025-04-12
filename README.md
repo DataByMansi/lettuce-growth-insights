@@ -55,8 +55,7 @@ This project explores how environmental conditions — including temperature, hu
 |------|-------------|
 | `lettuce_dataset_cleaned.xlsx` | Complete analysis workbook with EDA, visualizations, and formulas |
 | `SOW_Lettuce_Growth_Project.docx` | Scope of Work document outlining goals and methodology |
-| `lettuce_growth_summary.docx` | Final project summary and insights |
-| `lettuce_analysis_presentation.pptx` | Polished PowerPoint presentation summarizing findings |
+| `lettuce_growth_summary.docx` | Final project summary and insights | |
 
 ---
 
